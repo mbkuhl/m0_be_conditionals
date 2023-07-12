@@ -41,11 +41,13 @@ end
 # Experiment with manipulating the value held within num_quarters
 # to make sure both conditions can be achieved.
 
-num_quarters = 0
+num_quarters = 1
 
-puts "I have enough money for a gumball"
-puts "I don't have enough money for a gumball"
-
+if num_quarters >= 2
+  puts "I have enough money for a gumball"
+else
+  puts "I don't have enough money for a gumball"
+end
 
 #####################
 # Using the variables defined below, write code that will tell you
