@@ -43,7 +43,7 @@ puts "Is number_students greater than or equal to 21", number_students >= 21
 
 # YOU DO: print the result of the comparison: is number_students less than or equal to 20?
 # this should print: true
-puts "Is number+students less than or equal to 20", number_students <=20
+puts "Is number_students less than or equal to 20", number_students <=20
 
 # YOU DO: print the result of the comparison: is number_students less than or equal to 21?
 # this should print: true
